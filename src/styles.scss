@@ -1,0 +1,9 @@
+@import "tailwindcss/utilities";
+@import "tailwindcss/components";
+@import "tailwindcss/base";
+
+body,
+html {
+  scroll-behavior: smooth;
+  //   color: #220f2c !important;
+}
